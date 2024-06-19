@@ -22,6 +22,7 @@ parent: 設定
 * [螢幕截圖](#螢幕截圖)
 * [音量控制](#音量控制)
 * [螢幕亮度控制](#螢幕亮度控制)
+* [相關連結](#相關連結)
 * [統整對照](#統整對照)
 
 
@@ -117,7 +118,18 @@ parent: 設定
 
 
 
+## 相關連結
+
+| 相關連結 |
+| ------- |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-labwc/read/config/mousebind.html) |
+
+
+
+
 ## 統整對照
 
-* [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common)
-* [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+| 統整對照 |
+| ------- |
+| System Modeling / [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common) |
+| System Modeling / [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) |

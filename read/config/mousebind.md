@@ -19,6 +19,7 @@ parent: 設定
 * [視窗邊界區塊](#視窗邊界區塊)
 * [桌面](#桌面)
 * [相關連結](#相關連結)
+* [統整對照](#統整對照)
 
 
 
@@ -78,4 +79,14 @@ parent: 設定
 
 | 相關連結 |
 | ------- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-labwc/read/config/keybind.html) |
+
+
+
+
+## 統整對照
+
+| 統整對照 |
+| ------- |
 | System Modeling / [滑鼠按鍵組合](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-mousebind-common) |
+| System Modeling / [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) |
