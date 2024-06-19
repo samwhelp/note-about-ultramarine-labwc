@@ -22,6 +22,13 @@ has_children: true
 
 ## 官方文件說明
 
+* [Getting Started](https://labwc.github.io/getting-started.html)
+* [Integration](https://labwc.github.io/integration.html)
+* [More](https://labwc.github.io/more.html)
+
+
+
+
 ### Manual
 
 | [Manual](https://labwc.github.io/manual.html) |
