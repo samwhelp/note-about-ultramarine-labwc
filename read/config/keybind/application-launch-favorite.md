@@ -26,4 +26,4 @@ grand_parent: 設定
 | `Alt + Shift + e` | 開啟文字編輯器 | `mousepad`                      |
 | `Alt + Shift + b` | 開啟網頁瀏覽器 | `firefox --new-tab about:blank` |
 | `Alt + Shift + v` | 開啟音量控制器 | `mate-volume-control`           |
-| `Alt + Shift + n` | 開啟網路連接器 | `nm-connection-editor`          |
+| `Alt + Shift + n` | 開啟網路連接器 | `kitty --class 'nmtui' --title 'Network Settings' nmtui`          |
