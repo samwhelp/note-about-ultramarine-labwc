@@ -31,7 +31,7 @@
 ## 按鍵綁定
 
 | 按鍵綁定 |
-| --- |
+| ------ |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-labwc/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-labwc/read/config/mousebind.html) |
 
