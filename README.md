@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Labwc](https://github.com/samwhelp/ultramarine-labwc-adjustment/tree/main/prototype/main/labwc-config/Main) |
+| [Ultramarine Labwc Config](https://github.com/samwhelp/ultramarine-labwc-adjustment/tree/main/prototype/main/labwc-config/Main) |
 
 
 
