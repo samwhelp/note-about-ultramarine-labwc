@@ -45,7 +45,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Labwc 探索筆記](https://samwhelp.github.io/note-about-labwc/) | [GitHub](https://github.com/samwhelp/note-about-labwc) |
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
-| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [Fedora Labwc 探索筆記](https://samwhelp.github.io/note-about-fedora-labwc/) | [GitHub](https://github.com/samwhelp/note-about-fedora-labwc) |
 
 
 
